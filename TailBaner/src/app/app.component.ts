@@ -10,5 +10,6 @@ import LayoutComponent from './shared/components/layout/layout.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'TailBaner';
+  title = 'Power BI';
+  enlace = '';
 }
